@@ -11,6 +11,8 @@ Department for first year students
 ![Draw Mode](https://github.com/Moodrammer/Paint-for-Kids/blob/master/Screenshot/Graph1.png)
 ## Play Mode
 ![Play Mode](https://github.com/Moodrammer/Paint-for-Kids/blob/master/Screenshot/play.png)
+# Demo
+![Demo](https://github.com/Moodrammer/Paint-for-Kids/blob/master/Screenshot/Demo.gif)
 # Contributors
 <table>
   <tr>
